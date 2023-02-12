@@ -1,0 +1,16 @@
+BA_N3K-TOR-R02-1  Bamdad
+BA_N3K-TOR-R02-2  Bamdad
+BA_N3K-TOR-R17-1  Bamdad
+BA_N3K-TOR-R17-2  Bamdad
+BA_SW3750-AGG-R01-2  Bamdad
+
+p9 vasl beshe
+192.168.255.250/30
+df 249gw
+nat beshe
+access list
+ssid makhfi
+
+SSID : NO-ONE-ACCESS
+PASS MIK : B@_noc_14_00
+PASS Wi-Fi : B@_noc_14_01
